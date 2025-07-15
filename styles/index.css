@@ -1,6 +1,8 @@
-h1{
+div{
    background-color: red;
    border: 5px solid brown;
    color: white;
    border-radius: 10px;
+   margin: 20px;
+   padding: 10px;
 }
